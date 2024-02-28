@@ -4,7 +4,7 @@
 - 👨‍🎓 University of Exeter / University of Warwick Alumni
 - ⚙️ At work I use `.c` `.sql` `.py`
 - 🌱 Learning all about `.cpp`, **Open Source**, **Programming**
-- 💬 Ping me about **Reverse Engineering**, **Electric Vehicles**, **AI**, **Development**
+- 💬 Ping me about **Reverse Engineering**, **Electric Vehicles**, **Development**
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lawrencecatapang)
 
 <!---
