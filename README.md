@@ -11,16 +11,16 @@
 
 #### Project / Repository timeline
 #### **1. Stroustrup Book (PPP2)**
-##### **Duration:** December 2023 - February 2024
+Duration: December 2023 - February 2024
 
 #### 2. learn-raylib
-##### **Duration:** February 2024 - Ongoing (plan to continuously add to this repo when I feel like doing game dev)
+Duration: February 2024 - Ongoing (will continuously add to this repo when I feel like doing game dev)
 
 #### 3. CANsniffer_vxl
-##### **Duration:** February 2024 - Ongoing (plan to finish May 2024)
+Duration: February 2024 - Ongoing (plan to finish May 2024)
 
 #### 4. embedded_programming
-##### **Duration:** March 2024 - Ongoing (plan to finish April 2024)
+Duration: March 2024 - Ongoing (plan to finish April 2024)
 
 <!---
 lawrencec98/lawrencec98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
