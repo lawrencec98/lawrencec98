@@ -13,13 +13,13 @@
 #### **1. Stroustrup Book (PPP2)**
 ##### **Duration:** December 2023 - February 2024
 
-#### 2. Learn Raylib
+#### 2. learn-raylib
 ##### **Duration:** February 2024 - Ongoing (plan to continuously add to this repo when I feel like doing game dev)
 
 #### 3. CANsniffer_vxl
 ##### **Duration:** February 2024 - Ongoing (plan to finish May 2024)
 
-#### 4. Embedded Programming
+#### 4. embedded_programming
 ##### **Duration:** March 2024 - Ongoing (plan to finish April 2024)
 
 <!---
