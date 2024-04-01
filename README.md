@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 #### Automotive R&D Engineer at Geotab
 - 👨‍🎓 University of Exeter / University of Warwick Alumni
