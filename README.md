@@ -1,10 +1,10 @@
 ### Hello 👋
 
-#### Automotive R&D Engineer at Geotab
-- 👨‍🎓 University of Exeter / University of Warwick Alumni
-- ⚙️ At work I use `.c` `.sql` `.py`
-- 🌱 Learning all about `.cpp`, **Open Source**, **Programming**, **Embedded programming**
-- 💬 Ping me about **Reverse Engineering**, **Electric Vehicles**, **Software Development**
+#### Embedded Software Engineer at Rheinmetall
+- 👨‍🎓 University of Exeter and University of Warwick Alumni
+- ⚙️ At work I use `.cpp`
+- 🌱 Learning all about **Open Source**, **Programming**, **Embedded systems**
+- 💬 Ping me about **Reverse Engineering**, **Software Development**
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lawrencecatapang)
 
 <!---
