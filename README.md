@@ -1,9 +1,9 @@
 ### Hello 👋
 
-#### Embedded Software Engineer at Rheinmetall
+#### Embedded Software Engineer at Rheinmetall UK
 - 👨‍🎓 University of Exeter and University of Warwick Alumni
 - ⚙️ At work I use `.cpp`
-- 🌱 Learning all about **Open Source**, **Programming**, **Embedded systems**
+- 🌱 Learning all about **Programming**, **Embedded systems**, **Video processing**
 - 💬 Ping me about **Reverse Engineering**, **Software Development**
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lawrencecatapang)
 
