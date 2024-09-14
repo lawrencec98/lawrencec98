@@ -1,10 +1,9 @@
 ### Hello 👋
 
 #### Embedded Software Engineer at Rheinmetall UK
-- 👨‍🎓 University of Exeter and University of Warwick Alumni
+- 👨‍🎓 BEng Renewable Energy Engineering @ University of Exeter / MSc Sustainable Automotive Electrification @ University of Warwick
 - ⚙️ At work I use `.cpp`
-- 🌱 Learning all about **Programming**, **Embedded systems**, **Video processing**
-- 💬 Ping me about **Reverse Engineering**, **Software Development**
+- 🌱 Love learning about **Embedded systems**, **Video processing**, **High-performance programming**, **Computer Vision**
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lawrencecatapang)
 
 <!---
