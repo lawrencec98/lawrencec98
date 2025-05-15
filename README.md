@@ -3,7 +3,7 @@
 #### Embedded Software Engineer at Rheinmetall UK
 - 👨‍🎓 BEng Renewable Energy Engineering @ University of Exeter
 - 👨‍🎓 MSc Sustainable Automotive Electrification @ University of Warwick
-- ⚙️ At work I use `.cpp`, `.py`, `.sh`
+- ⚙️ At work I use `.cpp` `.py` `.sh`
 - 🌱 Love learning about **Embedded systems**, **Video processing**, **High-performance programming**, **Computer Vision**
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lawrencecatapang)
 
