@@ -1,11 +1,8 @@
 ### Hello 👋
 
-#### Embedded Software Engineer at Rheinmetall UK
-- 👨‍🎓 BEng Renewable Energy Engineering @ University of Exeter
-- 👨‍🎓 MSc Sustainable Automotive Electrification @ University of Warwick
+#### Embedded Software Engineer
 - ⚙️ At work I use `.cpp` `.py` `.sh`
-- 🌱 Love learning about **Embedded systems**, **Video processing**, **High-performance programming**, **Computer Vision**
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lawrencecatapang)
+- 🌱 Love learning about **Embedded systems**, **Video processing**, **Computer Vision**
 
 <!---
 lawrencec98/lawrencec98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
